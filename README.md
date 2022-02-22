@@ -12,6 +12,7 @@ Objectives:
      - epochs
      - padding_type
    
+   
      2) Preprocessing experimental parameters:
      - stop_words
      - stemming
